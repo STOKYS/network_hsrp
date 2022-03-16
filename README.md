@@ -1,12 +1,12 @@
-#Networking - STP, OSPF, HSRP
+# Networking - STP, OSPF, HSRP
 
 ***David Stoček***
 
-##Zadání
+## Zadání
 
 ![Zadání](./img/zadani.jpg)
 
-##Sestava
+## Sestava
 
 ![start](./img/start.png)
 
